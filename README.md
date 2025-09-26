@@ -43,7 +43,7 @@ If a project requires extra libraries, check for a requirements.txt inside that 
 	•	Share my journey and hopefully inspire others who are also learning.
 
 ## 👨‍💻 Author
-Created by Johel Gomez [xJDevs]
-LinkedIn: www.linkedin.com/in/johelgomez
-Instagram: https://www.instagram.com/johelgr._?igsh=MWZ4ZXhuOWZsMzMz&utm_source=qr
-Contact: Email: joe.code.dev@gmail.com | Phone: +506 7276 5853
+- Created by Johel Gomez [xJDevs]
+- LinkedIn: www.linkedin.com/in/johelgomez
+- Instagram: https://www.instagram.com/johelgr._?igsh=MWZ4ZXhuOWZsMzMz&utm_source=qr
+- Contact: Email: joe.code.dev@gmail.com | Phone: +506 7276 5853
