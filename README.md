@@ -42,7 +42,7 @@ If a project requires extra libraries, check for a requirements.txt inside that 
 	•	Explore different areas of software development, from fundamentals to advanced topics.
 	•	Share my journey and hopefully inspire others who are also learning.
 
-👨‍💻 Author
+## 👨‍💻 Author
 Created by Johel Gomez [xJDevs]
 LinkedIn: www.linkedin.com/in/johelgomez
 Instagram: https://www.instagram.com/johelgr._?igsh=MWZ4ZXhuOWZsMzMz&utm_source=qr
