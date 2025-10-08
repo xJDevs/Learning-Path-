@@ -1,0 +1,51 @@
+# 📦 venv
+
+This is a quick guide on how to set up a venv. 
+---
+
+## 🛠️ Setup and Usage
+
+1. Go to the project folder
+Ex: 
+cd "/Users/johel/Documents/PROGRA❤️/Learning-Path-/100 Days of Code/Lesson 16 OOP/" 
+
+2. Open a terminal and create a virtual environment
+python3 -m venv venv
+
+3. Activate the virtual environment
+# Mac/Linux:
+source venv/bin/activate
+# Windows (PowerShell):
+venv\Scripts\activate
+
+4. Install dependencies
+Dependency example: PrettyTable
+pip install prettytable
+
+5. Save dependencies
+pip freeze > requirements.txt
+
+6. Run the script
+python test_pretty.py
+
+7. Deactivate the virtual environment
+deactivate
+
+## 📚 What I Learned about venv
+- A venv creates an isolated environment for Python projects.
+- It helps prevent conflicts between dependencies in different projects.
+- Dependencies installed inside a venv don’t affect the global Python installation.
+- Requirements can be exported with `pip freeze > requirements.txt` for easy sharing. (If a file does not exist, this command will create a new one, elif: requirements.txt is overwritten with all the existing dependencies)
+- You can activate and deactivate a venv as needed.
+
+## 📦 What is a Dependency?
+- A dependency is simply a **Python package** that your project needs to run.
+- Example: If your script imports `prettytable`, then `PrettyTable` is a dependency.
+- Not all installed packages are dependencies; only those used in your project are.
+
+---
+🔎 Note: Remember to deactivate the venv when you finish working on this project by running:
+```bash
+deactivate
+```
+
