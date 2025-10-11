@@ -28,3 +28,12 @@ p2.greet()   # Hello, my name is Randy
 # - It is passed automatically by Python (you don’t include it when calling the method).
 # - It allows each object to keep and use its own data independently.
 # - It’s not a reserved keyword, but it’s a strong convention to always name it `self`.
+
+
+## 🧠 What I Learned
+
+- Learned to create classes and define attributes and methods.
+- Understood how to use `self` to access instance data.
+- Practiced modular programming by separating logic into multiple files.
+- Built a complete quiz program guided by the instructor using Object-Oriented Programming (OOP) principles.
+- Reinforced the importance of encapsulation and clean code structure.
