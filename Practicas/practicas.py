@@ -40,15 +40,17 @@ print(vocales_2("Mi nombre es Johel"))
 def max_min(n1,n2,n3,n4,n5):
     
     numeros = [n1, n2, n3, n4, n5]
-    maximo = None
-    for i in range(len(numeros)):
-        if i >= numeros[i]:
+    maximo = numeros[0]
+    for i in numeros:
+        if i >= maximo:
             maximo = i
     return maximo
 
     # maximo = max(numeros)
     # minimo = min(numeros)
-print(max_min(1,2,3,4,5))
+x = max_min(1,2,15,4,5)
+
+print(x)
 
     
     
